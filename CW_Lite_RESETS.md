@@ -23,3 +23,7 @@ def program_sam_firmware(hardware_type=None):
 
 program_sam_firmware("cwlite")
 ```
+## Notice:
+This is the code snippet to be run to reflash the firmware of the CHipwhisphere Lite oscilloscope. Do not use jumper cables to reinitiate firmware!
+for more info contact:
+Mabon Ninan: ninanmm@mail.uc.edu
